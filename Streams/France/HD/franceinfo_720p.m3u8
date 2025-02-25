@@ -1,3 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-AACL-128",LANGUAGE="fr",NAME="Français",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://simulcast-b.ftven.fr/ZXhwPTE3NDA1MjEwMzR+YWNsPSUyZip+aG1hYz1iNmUyZjNkOGZiNzczNzYwZjE2ZTYzNGQwYjU3MTEyYzM2OTMyZDczMGE1YmRmZDUzNzczNjMzMDhkMjdkMzQw/simulcast/France_Info/hls_monde_frinfo/France_Info-mp4a_96000_fra=1.m3u8"
