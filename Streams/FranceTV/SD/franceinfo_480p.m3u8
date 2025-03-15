@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-AACL-128",LANGUAGE="fr",NAME="Français",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://simulcast-p.ftven.fr/ZXhwPTE3NDIwNDExMDh+YWNsPSUyZip+aG1hYz1hODMxZDc1MjFkZGIxMTgzN2I1ZDMyZjQ3ZDc3ZTNhOTlmYjcxNjhlYjBmYjFkYzUyNjlhOGQyMDQ0MTY3OWY5/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_5000000=1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-AACL-128",LANGUAGE="fr",NAME="Français",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://simulcast-p.ftven.fr/ZXhwPTE3NDIwNjI3MDh+YWNsPSUyZip+aG1hYz0wOGU2MTFmN2E5MmJkZThjOWUwNzYzNTA4MGQ2Njk4NTMzYjJmZDExOTgyMDc2NjhhZjEzZDNhNjg0MmQ2Nzg1/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_5000000=1.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,AVERAGE-BANDWIDTH=1000000,CODECS="avc1.64002A,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO="audio-AACL-128"
-https://simulcast-p.ftven.fr/ZXhwPTE3NDIwNDExMDh+YWNsPSUyZip+aG1hYz1hODMxZDc1MjFkZGIxMTgzN2I1ZDMyZjQ3ZDc3ZTNhOTlmYjcxNjhlYjBmYjFkYzUyNjlhOGQyMDQ0MTY3OWY5/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_5000000=4.m3u8
+https://simulcast-p.ftven.fr/ZXhwPTE3NDIwNjI3MDh+YWNsPSUyZip+aG1hYz0wOGU2MTFmN2E5MmJkZThjOWUwNzYzNTA4MGQ2Njk4NTMzYjJmZDExOTgyMDc2NjhhZjEzZDNhNjg0MmQ2Nzg1/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_5000000=4.m3u8
