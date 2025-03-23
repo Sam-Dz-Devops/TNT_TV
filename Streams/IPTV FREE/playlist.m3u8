@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1-id="" tvg-name="FR: FRANCE 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/000f35fba0292736e6cbd701bb971ac6.png" group-title="FRANCE",FR: FRANCE 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/154
 #EXTINF:-1-id="" tvg-name="FR: BFM TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" group-title="FRANCE",FR: BMF TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1-id="" tvg-name="FR: ARTE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/37306f7774bbe96a948dc9d923c1db22.png" group-title="FRANCE",FR: ARTE
